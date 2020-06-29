@@ -9,3 +9,6 @@ Ernest Miller Hemingway war einer der erfolgreichsten und bekanntesten US-amerik
 * Karriere
 * Buch
 
+As he said:
+> I’ve always been more interested
+> in the future than in the past.
