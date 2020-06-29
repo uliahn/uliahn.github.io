@@ -12,3 +12,7 @@ Ernest Miller Hemingway war einer der erfolgreichsten und bekanntesten US-amerik
 As he said:
 > I’ve always been more interested
 > in the future than in the past.
+
+So schaut der aus :
+
+<img src="https://duckduckgo.com/i/8b67911f.jpg"/>
